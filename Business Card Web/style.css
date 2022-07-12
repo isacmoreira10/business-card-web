@@ -1,0 +1,77 @@
+* 
+{
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    margin: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap'
+}
+
+footer
+ a
+ {
+    margin-top: 10px;
+    padding: 0%;
+    text-align: center;
+    color: antiquewhite;
+    height: 10px;
+}
+
+body
+{
+    background-image: url(https://images.unsplash.com/photo-1504610926078-a1611febcad3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80);
+}
+
+.conteiner 
+{
+    width: 300px;
+    margin: 0px auto;
+}
+
+img
+ {
+    border: 8px;
+    background-color: black;
+    box-sizing: border-box;
+    border: style 10px;
+    box-shadow: 10px 5px 5px black;
+}
+
+img.avatar
+ {
+    border-radius: 50%;
+    height: 130px;
+    margin-left: 10px;
+    margin-top: 80px;
+}
+
+h1
+ {
+    font-family: 'https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap';
+    color: rgb(3, 10, 16);
+    text-align: center;
+    margin: auto;
+    line-height: 130px;
+}
+
+ul 
+li 
+a 
+{
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: lowercase;
+    line-height: 49px;
+    font-family: 'https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap';
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px 1px rgb(49, 47, 47);
+    border-color: black;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
